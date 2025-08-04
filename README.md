@@ -6,9 +6,10 @@
 ### IP Range Scanned:
 192.168.4.0/24
 
-### Scan Command:
+## Scan Command:
 ```bash
 nmap -sS 192.168.4.0/24
+```
 
 Results:
 IP Address	Open Ports
