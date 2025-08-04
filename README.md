@@ -19,13 +19,21 @@ IP Address	Open Ports
 
 Analysis:
 Port 53/tcp on 192.168.4.232 is open.
+
 This suggests a DNS service is running on that host.
+
 DNS over TCP is typically used for:
+
 Large DNS responses
+
 Zone transfers (AXFR)
+
 If improperly configured, could pose a security risk:
+
 DNS spoofing
+
 Amplification attacks
+
 No other devices showed open ports in this scan.
 
 Additional Notes:
